@@ -1,6 +1,6 @@
 # ITWS.4200 Repo
 
->  Adriana Morales' github repo for ITWS.4200 (wWeb Science
+>  Adriana Morales' github repo for ITWS.4200 (Web Science)
 
 ## About the Repo
 
