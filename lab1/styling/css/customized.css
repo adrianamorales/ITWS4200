@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+#tweetsBody {
+	padding: 20px 20px 20px 20px;
+	display: none;
+}
+
+#topHash {
+	padding: 20px 20px 20px 20px;
+
+
+}
+
+.tweet {
+	padding: 10px 10px 10px 10px;
+
+}
+
+.profile {
+	border: 1px solid #fff;
+}
+
+./*fade {
+	opacity: 1;
+	transition: opacity .25s ease-in-out;
+	-moz-transition: opacity .25s ease-in-out;
+	-webkit-transition: opacity .25s ease-in-out;
+}
+
+.fade:focus {
+	opacity: 0.5;
+}*/
